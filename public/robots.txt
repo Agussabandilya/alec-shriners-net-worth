@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alec-shriners-net-worth.pages.dev/sitemap.xml
